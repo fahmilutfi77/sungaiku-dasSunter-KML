@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1WdSxSNZNSTXnCjuiZhOv9y14uqPZMijS">
+	<name>Sungaiku_Peta_DAS_KLHK</name>
+	<gx:CascadingStyle kml:id="__managed_style_1CFB77A91A3D48EA35AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffcaf57a</color>
+				<width>1.6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00f0f0f0</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_045D3328773D48EA35AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CFB77A91A3D48EA35AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20B39008AC3D48EA35AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_20B39008AC3D48EA35AC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffcaf57a</color>
+				<width>2.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00f0f0f0</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_07ABA9E8A33D48EA35D6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F3ECFE30D3D48EA35D4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DAA4B92243D48EA35D4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F3ECFE30D3D48EA35D4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_07ABA9E8A33D48EA35D6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="089DD98FDF3D47FE8026">
+		<name>Batas_DAS_KLHK</name>
+		<snippet></snippet>
+		<styleUrl>#__managed_style_0DAA4B92243D48EA35D4</styleUrl>
+		<Placemark id="0787DE2E993D47FE8027">
+			<name>K. ANGKE PESANGGRAHAN</name>
+			<snippet></snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>K. ANGKE PESANGGRAHAN</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3550</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>objectid_1</td>
+
+<td>3549</td>
+
+</tr>
+
+<tr>
+
+<td>objectid</td>
+
+<td>3463</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>kode_prov</td>
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>nama_das</td>
+
+<td>K. ANGKE PESANGGRAHAN</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>luas_ha</td>
+
+<td>48732.38</td>
+
+</tr>
+
+<tr>
+
+<td>kel_m</td>
+
+<td>137021</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>prioritas_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>kd_tematik</td>
+
+<td>DAS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>kd_region</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>kd_lintas</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>kd_das</td>
+
+<td>DAS230040</td>
+
+</tr>
+
+<tr>
+
+<td>wil_kerja</td>
+
+<td>BPDAS CITARUM - CILIWUNG</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>kd_urutdas</td>
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>globalid</td>
+
+<td>{56474A2C-0873-4FF2-866B-C10CE2A1EAA4}</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>st_area_sh</td>
+
+<td>0.039821</td>
+
+</tr>
+
+<tr>
+
+<td>st_length_</td>
+
+<td>1.238762</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>st_area(sh</td>
+
+<td>0.039821</td>
+
+</tr>
+
+<tr>
+
+<td>st_length(</td>
+
+<td>1.238762</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+			<styleUrl>#__managed_style_045D3328773D48EA35AC</styleUrl>
+			 <Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								117.7036079044759,4.163414552181705,0 117.7394311799766,4.132310170698738,0 117.7627059225809,4.100734720264038,0 117.8191024155777,4.068671076560227,0 117.8385522812949,4.04018791877826,0 117.872569200713,4.031561465698489,0 117.8870548781725,4.031927685880182,0 117.9013778002133,4.036688548244156,0 117.9348250604101,4.05988179215231,0 117.9182235091718,4.100043137927798,0 117.9121199863122,4.144924187961433,0 117.9070390212257,4.156682890337945,0 117.8525573129133,4.157241984490871,0 117.7835722509109,4.157241984490871,0 117.7380714659095,4.157241984490871,0 117.7036079045208,4.163414552181705,0 117.7036079044759,4.163414552181705,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								118.6101180360263,2.202297300047932,0 118.6320906890805,2.187241868725291,0 118.6543074890443,2.18227776884729,0 118.6543074864366,2.189683285959661,0 118.6394962881155,2.198635099085792,0 118.6238712922082,2.213080213667239,0 118.5996199879702,2.244330144082063,0 118.5859481130657,2.277818102991636,0 118.5803328799187,2.286851331815007,0 118.5748804066785,2.29242589871489,0 118.5748804070064,2.294175583586536,0 118.5859481111291,2.291489919453724,0 118.6174422546734,2.268540777514684,0 118.6326603538863,2.260687624626137,0 118.6337996760567,2.271673927151891,0 118.6225692073178,2.28611889161678,0 118.5898543650639,2.305568814058979,0 118.5784611326246,2.318792994831262,0 118.5564070951419,2.312201183242668,0 118.5568953769653,2.285956060366813,0 118.5683699862715,2.255601251064523,0 118.5784611360471,2.236883919120754,0 118.5911564481328,2.221014782146019,0 118.6101180360263,2.202297300047932,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								117.5133569690339,3.290838980761609,0 117.5214949899085,3.288072050902293,0 117.5275171250342,3.290838980761609,0 117.5302840449739,3.305650016833987,0 117.5278426387038,3.317368760953862,0 117.5208439456291,3.324530332535574,0 117.5035913443741,3.333644978078734,0 117.4870711534004,3.341457273901857,0 117.4684350925548,3.345282306608312,0 117.4498803996906,3.343939399272406,0 117.4333602245004,3.336411907955136,0 117.4209090487885,3.322414427314188,0 117.4139103577255,3.304836461342661,0 117.4170028011534,3.288723075549878,0 117.4339298904787,3.278998263445746,0 117.4402775461243,3.280015508233066,0 117.4533797586482,3.289252126959428,0 117.4619246790217,3.292670081467131,0 117.4721785841589,3.293605910621969,0 117.5035913460231,3.292670081467131,0 117.5133569690339,3.290838980761609,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
