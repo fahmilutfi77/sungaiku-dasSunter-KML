@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="id" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Batas_Province_Simplemap</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00f0f0f0</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>id</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>North Kalimantan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>North Kalimantan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>id</td>
+
+<td>IDKU</td>
+
+</tr>
+
+<tr>
+
+<td>name</td>
+
+<td>North Kalimantan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>source</td>
+
+<td><a target="_blank" href="https://simplemaps.com">https://simplemaps.com</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								117.7036079044759,4.163414552181705,0 117.7394311799766,4.132310170698738,0 117.7627059225809,4.100734720264038,0 117.8191024155777,4.068671076560227,0 117.8385522812949,4.04018791877826,0 117.872569200713,4.031561465698489,0 117.8870548781725,4.031927685880182,0 117.9013778002133,4.036688548244156,0 117.9348250604101,4.05988179215231,0 117.9182235091718,4.100043137927798,0 117.9121199863122,4.144924187961433,0 117.9070390212257,4.156682890337945,0 117.8525573129133,4.157241984490871,0 117.7835722509109,4.157241984490871,0 117.7380714659095,4.157241984490871,0 117.7036079045208,4.163414552181705,0 117.7036079044759,4.163414552181705,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								118.6101180360263,2.202297300047932,0 118.6320906890805,2.187241868725291,0 118.6543074890443,2.18227776884729,0 118.6543074864366,2.189683285959661,0 118.6394962881155,2.198635099085792,0 118.6238712922082,2.213080213667239,0 118.5996199879702,2.244330144082063,0 118.5859481130657,2.277818102991636,0 118.5803328799187,2.286851331815007,0 118.5748804066785,2.29242589871489,0 118.5748804070064,2.294175583586536,0 118.5859481111291,2.291489919453724,0 118.6174422546734,2.268540777514684,0 118.6326603538863,2.260687624626137,0 118.6337996760567,2.271673927151891,0 118.6225692073178,2.28611889161678,0 118.5898543650639,2.305568814058979,0 118.5784611326246,2.318792994831262,0 118.5564070951419,2.312201183242668,0 118.5568953769653,2.285956060366813,0 118.5683699862715,2.255601251064523,0 118.5784611360471,2.236883919120754,0 118.5911564481328,2.221014782146019,0 118.6101180360263,2.202297300047932,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								117.5133569690339,3.290838980761609,0 117.5214949899085,3.288072050902293,0 117.5275171250342,3.290838980761609,0 117.5302840449739,3.305650016833987,0 117.5278426387038,3.317368760953862,0 117.5208439456291,3.324530332535574,0 117.5035913443741,3.333644978078734,0 117.4870711534004,3.341457273901857,0 117.4684350925548,3.345282306608312,0 117.4498803996906,3.343939399272406,0 117.4333602245004,3.336411907955136,0 117.4209090487885,3.322414427314188,0 117.4139103577255,3.304836461342661,0 117.4170028011534,3.288723075549878,0 117.4339298904787,3.278998263445746,0 117.4402775461243,3.280015508233066,0 117.4533797586482,3.289252126959428,0 117.4619246790217,3.292670081467131,0 117.4721785841589,3.293605910621969,0 117.5035913460231,3.292670081467131,0 117.5133569690339,3.290838980761609,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
