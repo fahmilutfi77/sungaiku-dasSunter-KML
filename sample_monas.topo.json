@@ -1,0 +1,20 @@
+{
+  "type": "Topology",
+  "objects": {
+    "places": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [106.827153, -6.17511],
+          "properties": { "name": "Monumen Nasional", "popup": "Ini Monas" }
+        },
+        {
+          "type": "Point",
+          "coordinates": [106.821, -6.170],
+          "properties": { "name": "Contoh Titik 2", "popup": "Titik contoh" }
+        }
+      ]
+    }
+  }
+}
